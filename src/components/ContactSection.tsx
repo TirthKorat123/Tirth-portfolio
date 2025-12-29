@@ -52,7 +52,7 @@ export const ContactSection = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          access_key: 'b77df935-5b36-47f4-86c5-a7b30e89b8cb',
+          access_key: '9a7665bb-67be-4eb5-877e-0ebc66804f13',
           name: formData.name,
           email: formData.email,
           message: formData.message,
